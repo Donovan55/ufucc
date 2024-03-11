@@ -18,7 +18,7 @@ class FooterTwo extends Component {
 												data-wow-delay="0.2s"
 											>
 												<a href="index.html" className="f-logo">
-													<img src={require('../../img/ufPSlogo.png')} alt="" />
+													<img src={require('../../img/ufucclogo.png')} alt="" />
 												</a>
 												<div className="widget-wrap">
 													<p className="f_400 f_p f_size_15 mb-0 l_height34">

@@ -8,7 +8,7 @@ const Service = () => {
 			<section className="seo_service_area sec_pad">
 				<div className="container">
 					<SeoTitle
-						Title="Our focus areas"
+						Title="What We Do"
 						// TitleP="We focus on different aspects of product "
 					/>
 					<div className="row seo_service_info">
@@ -16,11 +16,12 @@ const Service = () => {
 							<div className="col-lg-4 col-md-6">
 								<div className="seo_service_item">
 									<img src={require('../../img/seo/icon1.png')} alt="" />
-									<h4>Product Management</h4>
+									<h4>Workshop</h4>
 									<p>
-										Oversees the development, strategy, and successful launch of
-										products, while ensuring they meet customer needs, business
-										goals, and market demand.
+									Engage in interactive workshops designed to enhance your consulting 
+									abilities, facilitated by experienced club members. Delve into practical 
+									case studies, strategic methodologies, and collaborative problem-solving sessions, 
+									empowering you to thrive in the consulting field.
 									</p>
 								</div>
 							</div>
@@ -29,11 +30,11 @@ const Service = () => {
 							<div className="col-lg-4 col-md-6">
 								<div className="seo_service_item">
 									<img src={require('../../img/seo/icon2.png')} alt="" />
-									<h4>Product Design</h4>
+									<h4>Network</h4>
 									<p>
-										The process of creating functional and aesthetically
-										pleasing products that meet user needs, solve problems, and
-										deliver a positive user experience.
+									Build valuable connections and expand your network. Connect 
+									with industry leaders, alumni, and peers passionate about consulting, 
+									opening doors to mentorship, career opportunities, and lasting relationships.
 									</p>
 								</div>
 							</div>
@@ -42,11 +43,11 @@ const Service = () => {
 							<div className="col-lg-4 col-md-6">
 								<div className="seo_service_item">
 									<img src={require('../../img/seo/icon5.png')} alt="" />
-									<h4>Product Marketing</h4>
+									<h4>Implement</h4>
 									<p>
-										Encompasses the strategic planning, execution, and promotion
-										of products, aiming to generate customer interest, drive
-										sales, and create brand awareness.
+									Empower your consulting skills through action. Navigate
+									case competitions, deliver impactful presentations, and serve pro bono clients.
+									Here, you'll apply theory to practice, making a tangible impact while honing your expertise.
 									</p>
 								</div>
 							</div>
@@ -72,20 +73,18 @@ const Service = () => {
 						<div className="col-lg-6">
 							<Fade bottom cascade>
 								<div className="seo_features_content">
-									<h2>Further your passion for product and build with us</h2>
-									<p>
-										At Product Space, we aim to become future leaders in product
-										by gaining hands-on experience in our capstone projects as
-										well as demonstrating a sense of community, empathy, and
-										growth—our three core values that we uphold throughout our
-										organization.
-									</p>
-									<p>
-										Explore different product paths by joining us in our general
-										body meetings as well as introductory workshops. In these
-										meetings, you will find problems and deliver real solutions
-										using your product skills.
-									</p>
+								<h2>Ignite your passion for consulting and grow with us</h2>
+								<p>
+									At UF's Undergraduate Consulting Club, we strive to cultivate future leaders in consulting
+									by gaining hands-on experience in our client projects as well as embodying
+									a sense of collaboration, innovation, and development—our three core values
+									that we prioritize across our organization.
+								</p>
+								<p>
+									Embark on various consulting pathways by joining us in our general body meetings
+									or actively engaging in our consultant development program. In these gatherings, you'll tackle real-world
+									challenges and provide actionable strategies using your consulting expertise.
+								</p>
 									{/* <div className="media seo_features_item">
 										<div className="icon">
 											<img src={require('../../img/seo/icon4.png')} alt="" />
@@ -132,18 +131,12 @@ const Service = () => {
 						<div className="col-lg-6 d-flex align-items-center">
 							<Fade bottom cascade>
 								<div className="seo_features_content">
-									<h2 className="wow fadeInUp">Our Fellowship Program</h2>
+									<h2 className="wow fadeInUp">Consultant Development Program</h2>
 									<h6 className="wow fadeInUp">
-										Join our high growth training program and prepare for
-										recruitment and interviews.
+										Join our dynamic Consultant Development Program and prepare for career recruitment and interviews.
 									</h6>
 									<p className="wow fadeInUp">
-										Our fellowship program, which takes place over the course of a
-										semester, will not only introduce you to product management
-										but also other like-minded fellows that want to pursue their
-										passion in product. You will also be mentored as you prepare
-										for professional experience, whether it be your first
-										internship or a full-time position!
+										Our development program kicks off in the Fall and concludes at the end of Spring, offering you the opportunity to immerse yourself in consulting fundamentals and connect with fellow aspiring consultants. Through mentorship and hands-on training, you'll be equipped to excel in professional settings, whether it's securing your first consulting internship or transitioning into a full-time role.
 									</p>
 									{/* <a
 										href=".#"

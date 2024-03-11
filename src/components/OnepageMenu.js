@@ -10,10 +10,11 @@ class OnepageMenu extends Component {
 				<header className="header_area">
 					<nav className={`navbar navbar-expand-lg menu_one ${mClass}`}>
 						<div className={`container ${cClass}`}>
-							<Link className={`navbar-brand ${slogo}`} to="/">
-								<img src={require('../img/ufPSlogo.png')} alt="" />
-								<img src={require('../img/ufPSlogo.png')} alt="logo" />
-							</Link>
+						<Link className={`navbar-brand ${slogo}`} to="/">
+							<img src={require('../img/ufucclogo.png')} alt="" style={{ width: '180px', height: '42px' }} />
+							<img src={require('../img/ufucclogo.png')} alt="logo" style={{ width: '180px', height: '42px' }} />
+						</Link>
+
 							<button
 								className="navbar-toggler collapsed"
 								type="button"

@@ -11,9 +11,9 @@ class Subscribe extends Component {
 						<div className="seo_sec_title text-center mb_70">
 							<Fade bottom>
 								<h2>
-									Product Space members & alumni spark
+									UCC members & alumni
 									<br />
-									innovation across the industry.
+									are prepared to find success in industry.
 								</h2>
 							</Fade>
 						</div>
