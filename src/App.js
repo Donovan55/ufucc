@@ -9,7 +9,7 @@ import Startup from './Pages/Startup';
 import HomeCRM from './Pages/Home-CRM';
 import About from './Pages/About';
 import Service from './Pages/Service';
-import Fellowship from './Pages/Fellowship';
+import CDP from './Pages/CDP';
 import Team from './Pages/Team';
 import Portfolio2col from './Pages/Portfolio-2col';
 import Portfolio3col from './Pages/Portfolio-3col';
@@ -48,7 +48,7 @@ class App extends Component {
 				<Switch>
 					<ScrollToTopRoute exact={true} path={'/'} component={Home} />
 					<ScrollToTopRoute path="/Team" component={Team} />
-					<ScrollToTopRoute path="/Fellowship" component={Fellowship} />
+					<ScrollToTopRoute path="/CDP" component={CDP} />
 					<ScrollToTopRoute path="/Contact" component={Contact} />
 					<ScrollToTopRoute
 						path="/Digital-marketing"

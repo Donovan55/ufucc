@@ -54,8 +54,8 @@ class CustomNavbar extends Component {
 									</li>
 
 									<li className="nav-item">
-										<Link to="/Fellowship" className="nav-link">
-											Fellowship
+										<Link to="/CDP" className="nav-link">
+											CDP
 										</Link>
 									</li>
 
