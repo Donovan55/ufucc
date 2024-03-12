@@ -115,7 +115,7 @@ const FooterData = {
             menuItems: [
                 {
                   id: 1,
-                  url: 'https://www.instagram.com/ufproductspace/',
+                  url: 'https://www.instagram.com/uf_ucc/',
                   icon: 'ti-instagram',
                 },
                 {
@@ -139,12 +139,12 @@ const FooterData = {
     socialIcon:[
       {
         id: 1,
-        url: 'https://www.instagram.com/ufproductspace/',
+        url: 'https://www.instagram.com/uf_ucc/',
         icon: 'ti-instagram',
       },
       {
         id: 2,
-        url: 'https://www.linkedin.com/company/product-space-national/mycompany/',
+        url: 'https://www.linkedin.com/company/uf-ucc/',
         icon: 'ti-linkedin',
       }/*,
       {
@@ -158,7 +158,7 @@ const FooterData = {
         icon: 'ti-pinterest',
       }*/
     ],
-    copywrite:"© Product Space UF",
+    copywrite:"© UF UCC",
     TestimonialText: [
       {
         id: 1,

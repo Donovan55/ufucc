@@ -6,7 +6,7 @@ const AppTeam =()=>{
     return(
         <section className="experts_team_area sec_pad" id="team">
             <div className="container">
-                <Sectitle sClass="sec_title text-center mb_70" Title="The Team" tClass="t_color3" TitleP="UF Product Space Executive Board and Fellowship Leads"/>
+                <Sectitle sClass="sec_title text-center mb_70" Title="The Team" tClass="t_color3" TitleP="UCC Executive Board"/>
                 <Reveal bottom cascade>
                     <div className="row">
                         <div className="col-lg-3 col-sm-6">

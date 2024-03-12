@@ -5,31 +5,34 @@ const Team =()=>{
     return(
         <section className="experts_team_area sec_pad">
             <div className="container">
-                <Sectitle sClass="sec_title text-center mb_70" Title="The Team" tClass="t_color3" TitleP="UF Product Space Executive Board and Fellowship Leads"/>
+                <Sectitle sClass="sec_title text-center mb_70" Title="The Team" tClass="t_color3" TitleP="UCC Executive Board"/>
                 <div className="row">
                     <div className="col-lg-3 col-sm-6">
                         <Teamitem teamImage="team_01.jpg" memberN="Aarsh Chokshi" memberd="Co-president"/>
                     </div>
                     <div className="col-lg-3 col-sm-6">
-                        <Teamitem teamImage="team_02.jpg" memberN="Ryan Popov" memberd="Co-president"/>
+                        <Teamitem teamImage="zsachs.jpg" memberN="Zoe Sachs" memberd="Co-president"/>
                     </div>
                     <div className="col-lg-3 col-sm-6">
-                        <Teamitem teamImage="team_03.jpg" memberN="Donovan Spall" memberd="Director"/>
+                        <Teamitem teamImage="team_03.jpg" memberN="Donovan Spall" memberd="Senior Advisor"/>
                     </div>
                     <div className="col-lg-3 col-sm-6">
-                        <Teamitem teamImage="team_04.jpg" memberN="William Teke" memberd="Director"/>
+                        <Teamitem teamImage="atran.jpg" memberN="Austin Tran" memberd="Ops & Programming"/>
                     </div>
                     <div className="col-lg-3 col-sm-6">
-                        <Teamitem teamImage="team_5.jpg" memberN="Sofia Rizzo" memberd="Director"/>
+                        <Teamitem teamImage="zpatel.jpg" memberN="Zeal Patel" memberd="CDP & Pro-bono"/>
                     </div>
                     <div className="col-lg-3 col-sm-6">
-                        <Teamitem teamImage="team_6.jpg" memberN="Shaina Desroches" memberd="Fellowship Lead"/>
+                        <Teamitem teamImage="jwang.jpg" memberN="Joyce Wang" memberd="Pro Dev & Case Prep"/>
                     </div>
                     <div className="col-lg-3 col-sm-6">
-                        <Teamitem teamImage="team_7.jpg" memberN="Ikram Loutfi" memberd="Fellowship Lead"/>
+                        <Teamitem teamImage="rramesh.jpg" memberN="Rineha Ramesh" memberd="Treasurer & Strategy"/>
                     </div>
                     <div className="col-lg-3 col-sm-6">
-                        <Teamitem teamImage="team_8.jpg" memberN="Alfredo Auris" memberd="Fellowship Lead"/>
+                        <Teamitem teamImage="nlert.jpg" memberN="New Lert" memberd="Community & Outreach"/>
+                    </div>
+                    <div className="col-lg-3 col-sm-6">
+                        <Teamitem teamImage="sjayakody.jpg" memberN="Samantha Jayakody" memberd="Marketing"/>
                     </div>
                      {/*
                     <div className="col-lg-3 col-sm-6">
@@ -47,36 +50,7 @@ const Team =()=>{
                     */}
                 </div>
             </div>
-            <div className="container">
-                <Sectitle sClass="sec_title text-center mb_70" Title="The Fellows" tClass="t_color3" TitleP="Fall 2023"/>
-                <div className="row">
-                    <div className="col-lg-3 col-sm-6">
-                        <Teamitem teamImage="anikethm.jpg" memberN="Aniketh Mukhirala" memberd="Fellow"/>
-                    </div>
-                    <div className="col-lg-3 col-sm-6">
-                        <Teamitem teamImage="aravinds.jpg" memberN="Aravind Shankar" memberd="Fellow"/>
-                    </div>
-                    <div className="col-lg-3 col-sm-6">
-                        <Teamitem teamImage="jellanef.jpg" memberN="Jellane Fauni" memberd="Fellow"/>
-                    </div>
-                    <div className="col-lg-3 col-sm-6">
-                        <Teamitem teamImage="jinghanw.jpg" memberN="Jinghan Wu" memberd="Fellow"/>
-                    </div>
-                    <div className="col-lg-3 col-sm-6">
-                        <Teamitem teamImage="phuh.jpg" memberN="Phu Huynh" memberd="Fellow"/>
-                    </div>
-                    <div className="col-lg-3 col-sm-6">
-                        <Teamitem teamImage="sophiab.jpg" memberN="Sophia Baccari" memberd="Fellow"/>
-                    </div>
-                    <div className="col-lg-3 col-sm-6">
-                        <Teamitem teamImage="stephanieg.jpg" memberN="Stephanie Goris" memberd="Fellow"/>
-                    </div>
-                    <div className="col-lg-3 col-sm-6">
-                        <Teamitem teamImage="avav.jpg" memberN="Ava Vellozzi" memberd="Fellow"/>
-                    </div>
-                     {}
-                </div>
-            </div>
+            
         </section>
         
     )
