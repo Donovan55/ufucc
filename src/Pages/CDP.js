@@ -27,22 +27,23 @@ const CDP = () => {
         <p>Interested individuals should attend the first general body meetings, typically held at the beginning of the Fall semester. Additionally, they may choose to attend summer info sessions for more information. Applications typically open in the Fall semester and remain open until the 1st or 2nd general body meeting or after Business Bash. Applicants who meet the criteria will be offered interviews. Following the interview process, successful candidates will receive a formal invitation to the program. It's important to note that participation in the program is a year-long commitment, offering participants ample time to immerse themselves in the learning experience and make meaningful contributions. For any inquiries or questions, individuals can reach out via Instagram or email for assistance.</p>
       </div>
       <div className="cdp-section" style={{ backgroundColor: 'white', padding: '20px', marginBottom: '20px' }}>
-        <h1>FAQ</h1>
-        <div className="faq-container">
-			<div className="faq-question">
-            	<h2 style={{ fontSize: '18px' }}>Do you need previous consulting experience to join UCC or the CDP program?</h2>
-            	<p style={{ paddingRight: '30px' }}>Nope! Anyone can attend our GBMs, stay updated with our social media to know where and when they’ll be. And the vast majority of our consultants don’t have previous consulting experience. We’re mostly looking for passion and dedication in our CDP class.</p>
-          	</div>
-          	<div className="faq-question">
-            	<h2 style={{ fontSize: '18px' }}>Who is in UCC?</h2>
-            	<p style={{ paddingRight: '30px' }}>UCC is made up of a ton of students from different majors, backgrounds, and interests. UCC members are enthusiastic, passionate, and are problem-solvers and thinkers at their core.</p>
-          	</div>
-			<div className="faq-question">
-            	<h2 style={{ fontSize: '18px' }}>If I have a question who can I contact?</h2>
-            	<p style={{ paddingRight: '30px' }}>You can email us at ufucc.president@gmail.com or DM us on Instagram at uf_ucc.</p>
-          	</div>
+    <h1>FAQ</h1>
+    <div className="faq-container">
+        <div className="faq-question">
+            <h2 style={{ fontSize: '18px' }}>Do you need previous consulting experience to join UCC or the CDP program?</h2>
+            <p>Nope! Anyone can attend our GBMs, stay updated with our social media to know where and when they’ll be. And the vast majority of our consultants don’t have previous consulting experience. We’re mostly looking for passion and dedication in our CDP class.</p>
         </div>
-      </div>
+        <div className="faq-question">
+            <h2 style={{ fontSize: '18px' }}>Who is in UCC?</h2>
+            <p>UCC is made up of a ton of students from different majors, backgrounds, and interests. UCC members are enthusiastic, passionate, and are problem-solvers and thinkers at their core.</p>
+        </div>
+        <div className="faq-question">
+            <h2 style={{ fontSize: '18px' }}>If I have a question who can I contact?</h2>
+            <p>You can email us at ufucc.president@gmail.com or DM us on Instagram at uf_ucc.</p>
+        </div>
+    </div>
+	</div>
+
       <FooterTwo FooterData={FooterData} />
     </div>
   );
