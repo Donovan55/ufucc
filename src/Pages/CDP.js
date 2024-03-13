@@ -29,18 +29,18 @@ const CDP = () => {
       <div className="cdp-section" style={{ backgroundColor: 'white', padding: '20px', marginBottom: '20px' }}>
         <h1>FAQ</h1>
         <div className="faq-container">
-          <div className="faq-question">
-            <h2 style={{ fontSize: '18px' }}>What are the benefits of joining?</h2>
-            <p style={{ paddingRight: '30px' }}>Answer: Duis sit amet felis at risus lacinia aliquam nec a nulla. Sed vel lacinia purus.</p>
-          </div>
-          <div className="faq-question">
-            <h2 style={{ fontSize: '18px' }}>How do I become a member?</h2>
-            <p style={{ paddingRight: '30px' }}>Answer: Curabitur id purus at ligula scelerisque vehicula. Pellentesque sit amet tortor sit amet ipsum finibus ultricies.</p>
-          </div>
-          <div className="faq-question">
-            <h2 style={{ fontSize: '18px' }}>Are there any membership fees?</h2>
-            <p style={{ paddingRight: '30px' }}>Answer: Vivamus nec libero at magna tempor consectetur. Nullam commodo eget ante ut consectetur.</p>
-          </div>
+			<div className="faq-question">
+            	<h2 style={{ fontSize: '18px' }}>Do you need previous consulting experience to join UCC or the CDP program?</h2>
+            	<p style={{ paddingRight: '30px' }}>Nope! Anyone can attend our GBMs, stay updated with our social media to know where and when they’ll be. And the vast majority of our consultants don’t have previous consulting experience. We’re mostly looking for passion and dedication in our CDP class.</p>
+          	</div>
+          	<div className="faq-question">
+            	<h2 style={{ fontSize: '18px' }}>Who is in UCC?</h2>
+            	<p style={{ paddingRight: '30px' }}>UCC is made up of a ton of students from different majors, backgrounds, and interests. UCC members are enthusiastic, passionate, and are problem-solvers and thinkers at their core.</p>
+          	</div>
+			<div className="faq-question">
+            	<h2 style={{ fontSize: '18px' }}>If I have a question who can I contact?</h2>
+            	<p style={{ paddingRight: '30px' }}>You can email us at ufucc.president@gmail.com or DM us on Instagram at uf_ucc.</p>
+          	</div>
         </div>
       </div>
       <FooterTwo FooterData={FooterData} />
