@@ -140,7 +140,7 @@ class Contacts extends Component {
                                 */}
                                 
                                 <p className="f_400 f_size_15 mb-3"><span className="f_400 t_color3">Email:</span> <a href="mailto:ufucc.president@gmail.com">ufucc.president@gmail.com</a></p>
-                                <p className="f_400 f_size_15"><span className="f_400 t_color3">Insta:</span> <a href="https://www.instagram.com/uf_ucc/">uf_ucc</a></p>
+                                <p className="f_400 f_size_15"><span className="f_400 t_color3">Insta:</span> <a href="https://www.instagram.com/uf_ucc/" >uf_ucc</a></p>
 
                             </div>
                             

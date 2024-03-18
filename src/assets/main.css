@@ -232,6 +232,16 @@ a:hover, a:focus, .btn:hover, .btn:focus, button:hover, button:focus {
   font-weight: 900;
 }
 
+
+p.f_400.f_size_15 span.f_400.t_color3,
+p.f_400.f_size_15 a {
+  margin: 0; /* Remove any margin */
+  padding: 0; /* Remove any padding */
+}
+
+
+
+
 .t_color {
   color: #051441;
 }

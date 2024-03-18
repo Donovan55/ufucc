@@ -59,6 +59,12 @@ class CustomNavbar extends Component {
 										</Link>
 									</li>
 
+									<li className="nav-item">
+										<Link to="/WUCC" className="nav-link">
+											WUCC
+										</Link>
+									</li>
+
 									{/* <li className="dropdown submenu nav-item">
 										<Link
 											to="./"
