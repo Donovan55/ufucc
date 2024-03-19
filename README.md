@@ -1,5 +1,3 @@
-Website for UF Product Space
+Website for UF Undergraduate Consulting Club
 
-https://www.ufproductspace.com/
-
-https://main--ufproductspace.netlify.app/
+https://www.uccatuf.com
