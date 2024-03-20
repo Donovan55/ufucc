@@ -18,7 +18,7 @@ const Service = () => {
 									<img src={require('../../img/seo/icon1.png')} alt="" />
 									<h4>Workshop</h4>
 									<p>
-									Engage in interactive workshops designed to enhance your consulting 
+									Engage in interactive workshops to enhance your consulting 
 									abilities, facilitated by experienced club members. Delve into practical 
 									case studies, strategic methodologies, and collaborative problem-solving sessions, 
 									empowering you to thrive in the consulting field.
@@ -32,8 +32,8 @@ const Service = () => {
 									<img src={require('../../img/seo/icon2.png')} alt="" />
 									<h4>Network</h4>
 									<p>
-									Build valuable connections and expand your network. Connect 
-									with industry leaders, alumni, and peers passionate about consulting, 
+									Build valuable connections and expand your professional network. Connect 
+									with industry leaders, influential alumni, and like-minded peers passionate about consulting, 
 									opening doors to mentorship, career opportunities, and lasting relationships.
 									</p>
 								</div>
@@ -46,7 +46,7 @@ const Service = () => {
 									<h4>Implement</h4>
 									<p>
 									Empower your consulting skills through action. Navigate
-									case competitions, deliver impactful presentations, and serve pro bono clients.
+									through stimulating case competitions, deliver impactful presentations, and serve pro bono clients.
 									Here, you'll apply theory to practice, making a tangible impact while honing your expertise.
 									</p>
 								</div>
@@ -67,7 +67,11 @@ const Service = () => {
 							<div className="seo_features_img">
 								<div className="round_circle"></div>
 								<div className="round_circle two"></div>
-								<img src={require('../../img/seo/features_img.png')} alt="" />
+								<img
+									src={require('../../img/uccadditions/UCCICON2.png')}
+									alt=""
+									style={{ width: '450px', height: 'auto' }}
+								/>
 							</div>
 						</div>
 						<div className="col-lg-6">
@@ -123,8 +127,9 @@ const Service = () => {
 								<div className="round_circle"></div>
 								<div className="round_circle two"></div>
 								<img
-									src={require('../../img/seo/features_img_two.png')}
+									src={require('../../img/uccadditions/CDPICON.png')}
 									alt=""
+									style={{ width: '450px', height: 'auto' }}
 								/>
 							</div>
 						</div>
