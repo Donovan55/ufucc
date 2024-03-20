@@ -19,7 +19,7 @@ class Subscribe extends Component {
 						</div>
 						<div className="partner_logo_area_four">
 							<div className="row partner_info">
-								<img src={require('../img/companies/companiesucc.png')} alt="" width="800" height="400" />
+								<img src={require('../img/companies/ucccompanylogos.PNG')} alt="" width="660" height="330" />
 								{/* <div className="logo_item">
 									<img src={require('../img/companies/google.png')} alt="" />
 								</div>
